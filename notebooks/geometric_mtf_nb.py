@@ -1,7 +1,7 @@
 import marimo
 
 __generated_with = "0.11.14"
-app = marimo.App(width="full", layout_file="layouts/geometric_mtf.grid.json")
+app = marimo.App(width="full")
 
 
 @app.cell(hide_code=True)
